@@ -7,7 +7,7 @@ Terraform allows you to create infrastructure in configuration files (tf files) 
 
 provision resources in AWS cloud EC2 and S3 using Terraform and Jenkins. 
 
-##Pre-requistes:
+##Tecnical tools:
 
 •	Create S3 bucket 
 
