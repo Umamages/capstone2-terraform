@@ -169,7 +169,6 @@ By this time, we will be able to setup a Complete CI/CD Pipeline, Using Below Je
  
 
 
-GitHub URL:
-https://github.com/Umamages/capstone2-terraform
+
 
 
